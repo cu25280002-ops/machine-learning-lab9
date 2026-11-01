@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Category,Customer_Segment,Sales,Profit,Quantity
+ORD-10000,2025-05-30,South,Clothing,Corporate,808.92,193.71,6
+ORD-10001,2025-04-14,South,Electronics,Consumer,698.88,73.03,7
+ORD-10002,2025-03-20,West,Clothing,Consumer,1391.35,366.1,2
+ORD-10003,2025-05-11,East,Clothing,Home Office,1006.28,136.47,1
+ORD-10004,2025-07-29,East,Electronics,Consumer,1447.44,198.05,4
+ORD-10005,2025-04-01,West,Home & Kitchen,Consumer,1340.85,98.67,2
+ORD-10006,2025-07-27,West,Books,Home Office,809.3,282.28,3
+ORD-10007,2025-05-23,West,Home & Kitchen,Corporate,1389.1,222.03,1
+ORD-10008,2025-03-05,East,Clothing,Home Office,1497.01,460.24,8
+ORD-10009,2025-07-14,South,Clothing,Consumer,66.64,5.76,6
+ORD-10010,2025-10-21,East,Electronics,Consumer,191.32,58.02,6
+ORD-10011,2025-02-13,West,Books,Consumer,1015.08,260.63,4
+ORD-10012,2025-08-19,West,Clothing,Corporate,1211.58,369.58,9
+ORD-10013,2025-03-10,East,Home & Kitchen,Consumer,577.97,196.21,7
+ORD-10014,2025-06-14,East,Books,Home Office,763.89,97.27,8
+ORD-10015,2025-08-15,South,Home & Kitchen,Consumer,1237.53,66.81,5
+ORD-10016,2025-09-12,North,Clothing,Corporate,205.86,57.57,6
+ORD-10017,2025-11-19,North,Electronics,Home Office,1292.71,147.25,9
+ORD-10018,2025-10-18,West,Clothing,Consumer,885.7,115.03,9
+ORD-10019,2025-11-05,West,Home & Kitchen,Consumer,693.34,191.39,8
+ORD-10020,2025-07-31,West,Books,Corporate,405.8,56.43,7
+ORD-10021,2025-09-13,West,Clothing,Home Office,682.3,54.97,7
+ORD-10022,2025-03-18,West,Home & Kitchen,Corporate,1051.2,83.04,5
+ORD-10023,2025-06-18,South,Books,Corporate,207.67,64.37,5
+ORD-10024,2025-01-16,East,Books,Corporate,1056.51,293.35,1
+ORD-10025,2025-10-04,North,Home & Kitchen,Consumer,555.0,87.48,4
+ORD-10026,2025-06-30,East,Books,Consumer,1212.09,183.73,1
+ORD-10027,2025-01-18,North,Electronics,Consumer,1094.57,356.1,6
+ORD-10028,2025-04-11,South,Books,Consumer,178.1,21.67,5
+ORD-10029,2025-08-06,North,Electronics,Corporate,474.49,28.73,3
+ORD-10030,2025-01-12,East,Electronics,Consumer,1448.97,236.48,1
+ORD-10031,2025-05-14,West,Home & Kitchen,Consumer,324.86,85.37,6
+ORD-10032,2025-04-13,North,Home & Kitchen,Consumer,1419.05,461.37,9
+ORD-10033,2025-07-01,East,Clothing,Home Office,1089.57,158.82,1
+ORD-10034,2025-09-13,South,Books,Consumer,883.25,238.86,4
+ORD-10035,2025-02-06,South,Electronics,Home Office,1483.91,192.19,6
+ORD-10036,2025-02-22,West,Home & Kitchen,Home Office,1499.2,435.79,7
+ORD-10037,2025-03-28,East,Books,Home Office,441.32,71.84,2
+ORD-10038,2025-12-30,South,Books,Home Office,964.76,250.66,6
+ORD-10039,2025-03-31,East,Home & Kitchen,Corporate,180.43,56.43,5
+ORD-10040,2025-02-19,South,Clothing,Corporate,945.14,315.54,3
+ORD-10041,2025-03-19,West,Books,Home Office,68.06,18.58,3
+ORD-10042,2025-05-29,West,Books,Corporate,1100.29,348.38,8
+ORD-10043,2025-04-11,North,Clothing,Corporate,98.18,23.34,1
+ORD-10044,2025-08-14,South,Clothing,Corporate,851.16,86.17,2
+ORD-10045,2025-12-03,West,Home & Kitchen,Corporate,1455.77,,1
+ORD-10046,2025-11-22,East,Books,Corporate,400.11,31.11,8
+ORD-10047,2025-10-17,West,Home & Kitchen,Home Office,1044.05,101.02,1
+ORD-10048,2025-11-28,North,Home & Kitchen,Home Office,615.74,200.74,6
+ORD-10049,2025-04-26,North,Clothing,Home Office,519.07,88.59,8
+ORD-10050,2025-04-28,North,Electronics,Home Office,1398.86,113.94,2
+ORD-10051,2025-04-13,East,Home & Kitchen,Corporate,244.09,70.67,8
+ORD-10052,2025-07-09,East,Books,Home Office,949.75,82.07,4
+ORD-10053,2025-12-30,West,Electronics,Home Office,750.06,38.39,4
+ORD-10054,2025-12-26,East,Home & Kitchen,Home Office,1005.43,115.28,2
+ORD-10055,2025-02-27,North,Books,Home Office,917.94,91.83,9
+ORD-10056,2025-04-18,North,Home & Kitchen,Home Office,277.49,41.97,8
+ORD-10057,2025-11-20,East,Home & Kitchen,Home Office,1378.05,347.18,1
+ORD-10058,2025-12-05,South,Clothing,Home Office,302.05,56.97,2
+ORD-10059,2025-09-19,East,Home & Kitchen,Consumer,1412.5,354.9,2
+ORD-10060,2025-07-21,South,Books,Home Office,1167.12,276.12,1
+ORD-10061,2025-08-24,East,Books,Consumer,852.73,237.62,4
+ORD-10062,2025-02-09,West,Electronics,Consumer,659.53,224.23,2
+ORD-10063,2025-03-28,East,Clothing,Home Office,1082.45,376.46,2
+ORD-10064,2025-09-09,South,Home & Kitchen,Corporate,1092.35,156.7,8
+ORD-10065,2025-06-12,North,Clothing,Corporate,857.09,172.42,8
+ORD-10066,2025-03-20,West,Home & Kitchen,Consumer,1335.19,260.57,6
+ORD-10067,2025-01-09,North,Books,Consumer,1090.83,243.43,5
+ORD-10068,2025-09-19,West,Home & Kitchen,Consumer,552.79,40.36,8
+ORD-10069,2025-08-21,East,Home & Kitchen,Corporate,98.01,6.01,6
+ORD-10070,2025-02-22,South,Clothing,Home Office,206.04,35.92,6
+ORD-10071,2025-10-13,West,Books,Home Office,974.95,239.15,7
+ORD-10072,2025-03-21,East,Clothing,Consumer,1470.41,336.54,7
+ORD-10073,2025-05-08,East,Home & Kitchen,Home Office,1382.74,470.86,8
+ORD-10074,2025-12-20,North,Electronics,Home Office,329.41,100.32,1
+ORD-10075,2025-04-03,South,Books,Home Office,955.54,192.12,1
+ORD-10076,2025-05-20,North,Electronics,Home Office,1404.57,454.61,9
+ORD-10077,2025-03-26,North,Home & Kitchen,Consumer,1452.44,460.35,5
+ORD-10078,2025-10-26,North,Home & Kitchen,Home Office,1340.25,361.68,3
+ORD-10079,2025-06-16,North,Home & Kitchen,Corporate,651.65,159.41,4
+ORD-10080,2025-12-03,South,Books,Corporate,757.32,112.73,7
+ORD-10081,2025-03-05,East,Clothing,Consumer,882.94,298.49,3
+ORD-10082,2025-06-15,South,Electronics,Consumer,1412.22,90.85,7
+ORD-10083,2025-03-14,East,Clothing,Consumer,1108.17,320.48,6
+ORD-10084,2025-04-26,East,Clothing,Corporate,888.39,71.85,5
+ORD-10085,2025-12-11,West,Clothing,Corporate,287.69,77.8,8
+ORD-10086,2025-04-02,South,Home & Kitchen,Consumer,580.44,195.22,6
+ORD-10087,2025-07-11,West,Home & Kitchen,Home Office,313.35,29.2,2
+ORD-10088,2025-04-14,North,Home & Kitchen,Home Office,836.5,252.9,7
+ORD-10089,2025-11-14,East,Clothing,Home Office,112.47,29.96,6
+ORD-10090,2025-04-23,West,Books,Corporate,1424.21,185.74,4
+ORD-10091,2025-02-14,West,Home & Kitchen,Home Office,406.87,135.89,7
+ORD-10092,2025-09-24,South,Clothing,Home Office,829.65,203.25,4
+ORD-10093,2025-08-20,West,Clothing,Consumer,1096.79,262.09,5
+ORD-10094,2025-03-24,East,Clothing,Corporate,748.75,225.39,1
+ORD-10095,2025-08-25,South,Home & Kitchen,Corporate,372.55,62.07,5
+ORD-10096,2025-01-24,East,Electronics,Home Office,348.23,98.95,7
+ORD-10097,2025-10-07,East,Electronics,Home Office,1215.29,342.03,9
+ORD-10098,2025-03-24,South,Electronics,Home Office,325.83,101.73,2
+ORD-10099,2025-06-08,North,Books,Corporate,1271.09,340.84,9
+ORD-10100,2025-12-25,West,Home & Kitchen,Consumer,1192.96,126.54,5
+ORD-10101,2025-05-04,East,Home & Kitchen,Corporate,552.01,169.75,9
+ORD-10102,2025-03-02,South,Home & Kitchen,Consumer,390.53,97.94,7
+ORD-10103,2025-11-20,South,Clothing,Consumer,847.25,127.87,7
+ORD-10104,2025-08-13,East,Electronics,Home Office,376.21,102.74,1
+ORD-10105,2025-12-23,West,Electronics,Home Office,1146.29,302.51,1
+ORD-10106,2025-04-03,West,Electronics,Corporate,375.42,55.21,9
+ORD-10107,2025-12-08,North,Books,Corporate,1051.58,229.28,5
+ORD-10108,2025-06-03,East,Home & Kitchen,Consumer,136.19,42.82,5
+ORD-10109,2025-08-26,West,Books,Consumer,568.33,125.42,9
+ORD-10110,2025-03-07,East,Clothing,Corporate,1010.35,174.88,1
+ORD-10111,2025-03-18,East,Electronics,Corporate,466.46,77.06,1
+ORD-10112,2025-02-17,East,Clothing,Consumer,1354.83,249.16,5
+ORD-10113,2025-12-06,West,Home & Kitchen,Consumer,794.46,67.55,6
+ORD-10114,2025-02-12,East,Home & Kitchen,Home Office,1150.86,143.1,6
+ORD-10115,2025-01-22,North,Books,Consumer,569.48,114.19,3
+ORD-10116,2025-12-24,North,Clothing,Corporate,1173.63,328.79,4
+ORD-10117,2025-09-24,West,Clothing,Corporate,1055.3,183.21,4
+ORD-10118,2025-05-21,South,Electronics,Corporate,122.57,22.91,7
+ORD-10119,2025-09-23,West,Clothing,Corporate,355.57,81.99,6
+ORD-10120,2025-11-15,East,Home & Kitchen,Consumer,1349.92,430.46,9
+ORD-10121,2025-03-12,East,Clothing,Corporate,494.52,51.18,8
+ORD-10122,2025-02-12,South,Home & Kitchen,Corporate,117.06,31.47,1
+ORD-10123,2025-09-14,East,Clothing,Consumer,1124.75,357.73,8
+ORD-10124,2025-10-05,West,Clothing,Consumer,212.87,32.72,4
+ORD-10125,2025-01-24,West,Home & Kitchen,Home Office,1290.94,310.0,8
+ORD-10126,2025-07-13,West,Clothing,Corporate,1316.13,362.86,3
+ORD-10127,2025-06-14,North,Clothing,Corporate,571.53,88.88,3
+ORD-10128,2025-07-06,South,Clothing,Home Office,439.65,59.42,3
+ORD-10129,2025-09-10,South,Clothing,Corporate,470.69,27.04,7
+ORD-10130,2025-01-22,South,Clothing,Consumer,1201.76,156.41,3
+ORD-10131,2025-06-17,North,Books,Consumer,363.48,95.48,7
+ORD-10132,2025-07-30,West,Clothing,Home Office,361.49,49.65,1
+ORD-10133,2025-07-30,South,Electronics,Consumer,902.17,69.37,8
+ORD-10134,2025-06-10,South,Clothing,Home Office,700.26,81.99,9
+ORD-10135,2025-05-12,North,Books,Consumer,1416.79,72.47,8
+ORD-10136,2025-02-02,South,Home & Kitchen,Consumer,863.88,266.55,1
+ORD-10137,2025-07-07,East,Home & Kitchen,Home Office,623.68,84.96,6
+ORD-10138,2025-08-03,East,Books,Home Office,1445.08,148.37,6
+ORD-10139,2025-07-10,North,Books,Consumer,435.07,42.6,6
+ORD-10140,2025-06-18,South,Electronics,Corporate,1463.13,175.12,8
+ORD-10141,2025-02-17,North,Books,Corporate,93.8,21.67,3
+ORD-10142,2025-04-11,North,Home & Kitchen,Corporate,890.45,81.46,1
+ORD-10143,2025-03-06,East,Books,Consumer,612.04,173.51,2
+ORD-10144,2025-02-02,South,Home & Kitchen,Consumer,512.78,44.86,1
+ORD-10145,2025-09-28,North,Books,Home Office,1497.33,159.28,1
+ORD-10146,2025-05-19,West,Clothing,Home Office,812.41,232.77,1
+ORD-10147,2025-01-10,West,Electronics,Consumer,488.37,137.82,1
+ORD-10148,2025-02-17,North,Clothing,Consumer,100.98,21.27,9
+ORD-10149,2025-08-03,West,Clothing,Corporate,1463.36,497.15,6
+ORD-10150,2025-12-16,South,Books,Corporate,204.16,69.14,8
+ORD-10151,2025-01-15,North,Books,Corporate,1358.09,131.68,6
+ORD-10152,2025-04-27,East,Books,Consumer,895.2,237.91,2
+ORD-10153,2025-07-20,South,Home & Kitchen,Home Office,636.1,117.46,6
+ORD-10154,2025-03-31,East,Books,Home Office,1364.45,388.03,1
+ORD-10155,2025-11-27,West,Clothing,Consumer,1366.19,328.11,8
+ORD-10156,2025-01-19,East,Clothing,Corporate,807.89,113.92,9
+ORD-10157,2025-05-24,North,Books,Consumer,764.55,57.25,5
+ORD-10158,2025-11-11,North,Books,Corporate,287.34,56.23,5
+ORD-10159,2025-11-26,East,Books,Home Office,1284.59,66.11,6
+ORD-10160,2025-06-12,South,Home & Kitchen,Consumer,775.81,149.82,4
+ORD-10161,2025-11-06,East,Clothing,Corporate,1206.28,251.89,9
+ORD-10162,2025-01-19,West,Books,Home Office,1149.01,321.24,6
+ORD-10163,2025-05-22,East,Electronics,Corporate,1356.94,96.22,4
+ORD-10164,2025-06-24,South,Home & Kitchen,Home Office,806.18,64.22,5
+ORD-10165,2025-11-20,East,Electronics,Consumer,616.5,150.89,6
+ORD-10166,2025-02-08,West,Clothing,Home Office,99.12,18.21,5
+ORD-10167,2025-07-24,South,Electronics,Consumer,815.77,41.94,1
+ORD-10168,2025-06-07,South,Electronics,Corporate,1326.09,74.31,2
+ORD-10169,2025-02-12,West,Books,Home Office,712.85,225.45,5
+ORD-10170,2025-02-18,East,Clothing,Consumer,1454.07,479.73,2
+ORD-10171,2025-10-06,South,Clothing,Consumer,1278.64,222.86,4
+ORD-10172,2025-03-05,South,Clothing,Consumer,828.99,149.89,9
+ORD-10173,2025-03-29,North,Home & Kitchen,Corporate,772.86,205.84,9
+ORD-10174,2025-12-20,North,Home & Kitchen,Consumer,655.58,125.35,6
+ORD-10175,2025-04-26,North,Home & Kitchen,Consumer,375.12,28.14,4
+ORD-10176,2025-12-27,South,Home & Kitchen,Corporate,531.52,125.68,9
+ORD-10177,2025-04-23,North,Home & Kitchen,Home Office,538.95,87.87,3
+ORD-10178,2025-03-17,South,Books,Consumer,390.71,114.0,7
+ORD-10179,2025-01-23,East,Home & Kitchen,Consumer,73.91,23.71,3
+ORD-10180,2025-07-28,South,Books,Consumer,478.41,147.17,8
+ORD-10181,2025-07-26,East,Books,Corporate,932.99,47.46,3
+ORD-10182,2025-01-10,West,Books,Corporate,888.42,163.22,2
+ORD-10183,2025-08-17,East,Books,Consumer,1180.28,198.81,9
+ORD-10184,2025-07-09,East,Electronics,Home Office,1099.69,61.7,1
+ORD-10185,2025-11-24,North,Electronics,Consumer,1396.21,272.46,6
+ORD-10186,2025-05-24,North,Clothing,Corporate,842.75,144.27,9
+ORD-10187,2025-12-12,East,Books,Corporate,958.02,177.25,3
+ORD-10188,2025-10-10,South,Home & Kitchen,Home Office,560.27,100.7,4
+ORD-10189,2025-12-28,North,Electronics,Home Office,963.36,,1
+ORD-10190,2025-07-11,West,Books,Home Office,700.89,,3
+ORD-10191,2025-03-29,East,Home & Kitchen,Corporate,478.57,36.25,9
+ORD-10192,2025-01-28,North,Electronics,Home Office,547.95,124.79,2
+ORD-10193,2025-08-19,North,Clothing,Consumer,1497.39,522.36,6
+ORD-10194,2025-01-31,East,Clothing,Consumer,382.22,120.19,7
+ORD-10195,2025-02-06,East,Home & Kitchen,Corporate,1038.83,101.32,5
+ORD-10196,2025-11-20,East,Electronics,Home Office,1045.01,231.54,8
+ORD-10197,2025-08-06,South,Electronics,Corporate,431.65,63.6,2
+ORD-10198,2025-03-31,West,Clothing,Corporate,260.03,50.95,9
+ORD-10199,2025-10-14,East,Electronics,Consumer,1165.89,287.81,5
+ORD-10200,2025-06-29,South,Books,Consumer,1085.54,299.77,6
+ORD-10201,2025-12-19,West,Books,Home Office,173.86,58.89,6
+ORD-10202,2025-03-20,South,Home & Kitchen,Home Office,491.31,132.3,9
+ORD-10203,2025-12-20,South,Clothing,Corporate,951.24,247.13,9
+ORD-10204,2025-11-05,West,Home & Kitchen,Corporate,1139.23,151.27,3
+ORD-10205,2025-08-07,South,Home & Kitchen,Corporate,1443.59,354.81,2
+ORD-10206,2025-09-30,West,Books,Consumer,1174.52,330.47,9
+ORD-10207,2025-04-21,South,Electronics,Consumer,762.86,176.62,3
+ORD-10208,2025-05-26,South,Electronics,Consumer,1218.46,385.01,4
+ORD-10209,2025-11-03,East,Books,Corporate,1422.01,228.52,7
+ORD-10210,2025-11-30,North,Electronics,Home Office,291.7,36.7,7
+ORD-10211,2025-06-29,South,Home & Kitchen,Corporate,272.74,35.5,8
+ORD-10212,2025-06-18,West,Home & Kitchen,Home Office,178.97,14.38,7
+ORD-10213,2025-09-06,East,Clothing,Consumer,214.72,30.21,6
+ORD-10214,2025-08-09,North,Clothing,Consumer,1422.19,251.74,1
+ORD-10215,2025-05-04,South,Electronics,Home Office,521.06,100.06,3
+ORD-10216,2025-09-27,South,Electronics,Home Office,1452.81,412.4,7
+ORD-10217,2025-10-07,East,Electronics,Corporate,102.88,19.96,1
+ORD-10218,2025-06-06,North,Electronics,Home Office,412.62,132.53,1
+ORD-10219,2025-04-21,South,Books,Consumer,677.83,86.01,6
+ORD-10220,2025-07-17,North,Clothing,Home Office,137.29,14.75,2
+ORD-10221,2025-05-08,East,Clothing,Consumer,206.71,17.98,7
+ORD-10222,2025-07-21,South,Electronics,Corporate,658.74,183.84,1
+ORD-10223,2025-02-07,North,Clothing,Consumer,227.94,53.97,9
+ORD-10224,2025-02-17,West,Electronics,Home Office,841.14,128.11,8
+ORD-10225,2025-03-30,North,Electronics,Consumer,257.86,88.57,1
+ORD-10226,2025-01-02,North,Books,Consumer,656.87,86.98,1
+ORD-10227,2025-05-11,East,Electronics,Corporate,1188.15,70.53,1
+ORD-10228,2025-09-04,West,Clothing,Consumer,1459.49,338.67,2
+ORD-10229,2025-03-29,North,Clothing,Consumer,919.39,157.03,3
+ORD-10230,2025-03-15,North,Clothing,Home Office,299.93,66.6,9
+ORD-10231,2025-08-15,North,Electronics,Corporate,1489.3,424.56,4
+ORD-10232,2025-09-04,North,Home & Kitchen,Home Office,1417.18,239.34,6
+ORD-10233,2025-01-17,North,Home & Kitchen,Corporate,201.92,47.63,5
+ORD-10234,2025-04-25,East,Electronics,Corporate,82.46,16.4,5
+ORD-10235,2025-08-16,East,Clothing,Consumer,1419.75,154.94,8
+ORD-10236,2025-12-22,East,Electronics,Corporate,730.6,118.33,9
+ORD-10237,2025-07-08,West,Books,Home Office,1017.8,244.25,9
+ORD-10238,2025-07-14,South,Books,Consumer,891.44,68.43,6
+ORD-10239,2025-12-04,North,Home & Kitchen,Corporate,1037.41,153.15,1
+ORD-10240,2025-01-11,North,Clothing,Home Office,981.8,56.36,5
+ORD-10241,2025-10-02,North,Home & Kitchen,Corporate,1035.32,129.38,2
+ORD-10242,2025-09-25,East,Clothing,Corporate,766.55,172.87,4
+ORD-10243,2025-08-04,East,Electronics,Consumer,152.49,27.47,1
+ORD-10244,2025-01-21,West,Clothing,Home Office,471.05,49.24,8
+ORD-10245,2025-03-09,South,Books,Consumer,239.76,51.86,1
+ORD-10246,2025-03-15,East,Clothing,Home Office,443.61,83.41,5
+ORD-10247,2025-02-28,West,Electronics,Home Office,790.28,243.6,9
+ORD-10248,2025-07-08,North,Clothing,Corporate,131.21,11.84,1
+ORD-10249,2025-12-07,North,Home & Kitchen,Consumer,1253.69,136.07,9
+ORD-10250,2025-10-21,West,Home & Kitchen,Consumer,159.11,21.83,3
+ORD-10251,2025-03-02,South,Home & Kitchen,Corporate,729.59,116.87,9
+ORD-10252,2025-02-13,West,Electronics,Consumer,1305.34,392.03,3
+ORD-10253,2025-06-10,North,Electronics,Corporate,476.53,26.69,1
+ORD-10254,2025-05-18,West,Clothing,Consumer,1309.9,241.05,2
+ORD-10255,2025-03-28,North,Books,Consumer,1024.42,180.57,5
+ORD-10256,2025-03-02,West,Home & Kitchen,Home Office,607.99,91.84,2
+ORD-10257,2025-11-05,East,Electronics,Consumer,1303.28,437.64,4
+ORD-10258,2025-05-01,North,Clothing,Corporate,353.36,89.91,7
+ORD-10259,2025-06-10,North,Books,Consumer,750.9,254.17,7
+ORD-10260,2025-10-14,West,Clothing,Consumer,1184.72,79.28,3
+ORD-10261,2025-04-16,East,Books,Corporate,545.17,127.46,1
+ORD-10262,2025-05-21,South,Home & Kitchen,Home Office,588.56,177.03,6
+ORD-10263,2025-03-26,East,Books,Corporate,1249.54,172.09,1
+ORD-10264,2025-08-26,West,Clothing,Consumer,266.91,17.08,9
+ORD-10265,2025-12-16,West,Home & Kitchen,Home Office,1419.6,245.13,4
+ORD-10266,2025-08-11,North,Electronics,Consumer,299.18,60.54,6
+ORD-10267,2025-04-20,East,Electronics,Home Office,1086.51,217.4,8
+ORD-10268,2025-02-26,South,Books,Corporate,159.21,53.4,8
+ORD-10269,2025-01-10,West,Books,Corporate,351.19,115.81,4
+ORD-10270,2025-10-02,North,Clothing,Consumer,1020.47,267.05,9
+ORD-10271,2025-07-27,South,Electronics,Home Office,920.36,168.71,9
+ORD-10272,2025-03-21,South,Electronics,Corporate,1332.67,,8
+ORD-10273,2025-01-25,South,Electronics,Home Office,1008.67,103.9,5
+ORD-10274,2025-04-21,South,Electronics,Consumer,1274.51,358.74,6
+ORD-10275,2025-11-30,East,Electronics,Home Office,1334.55,403.28,6
+ORD-10276,2025-11-04,North,Books,Consumer,1390.89,470.8,8
+ORD-10277,2025-09-25,North,Home & Kitchen,Home Office,533.99,135.8,8
+ORD-10278,2025-07-29,South,Electronics,Home Office,873.79,54.42,8
+ORD-10279,2025-03-08,North,Clothing,Home Office,84.89,12.56,7
+ORD-10280,2025-05-18,North,Electronics,Consumer,668.68,86.13,6
+ORD-10281,2025-08-03,South,Books,Consumer,492.99,112.18,8
+ORD-10282,2025-05-03,South,Home & Kitchen,Consumer,1221.63,357.18,4
+ORD-10283,2025-04-05,North,Electronics,Home Office,1277.91,342.3,5
+ORD-10284,2025-01-30,North,Clothing,Consumer,66.54,17.83,5
+ORD-10285,2025-03-18,West,Electronics,Home Office,1326.6,276.39,8
+ORD-10286,2025-01-10,East,Electronics,Consumer,451.55,58.73,8
+ORD-10287,2025-08-16,East,Home & Kitchen,Home Office,158.61,44.48,1
+ORD-10288,2025-10-23,North,Electronics,Corporate,1112.76,102.88,3
+ORD-10289,2025-05-23,North,Electronics,Home Office,633.36,162.69,4
+ORD-10290,2025-03-18,North,Electronics,Consumer,69.65,15.19,8
+ORD-10291,2025-12-05,East,Clothing,Corporate,815.32,246.42,5
+ORD-10292,2025-11-12,South,Clothing,Corporate,127.12,42.74,6
+ORD-10293,2025-12-31,North,Electronics,Home Office,840.01,276.57,8
+ORD-10294,2025-02-09,South,Books,Home Office,648.37,214.03,8
+ORD-10295,2025-11-27,West,Electronics,Corporate,525.52,164.16,5
+ORD-10296,2025-02-28,East,Books,Corporate,260.52,65.72,8
+ORD-10297,2025-04-30,East,Books,Corporate,907.16,91.97,2
+ORD-10298,2025-09-06,West,Electronics,Consumer,1336.19,275.01,6
+ORD-10299,2025-01-18,South,Clothing,Home Office,139.81,31.2,9
+ORD-10300,2025-10-15,South,Home & Kitchen,Home Office,172.36,45.8,6
+ORD-10301,2025-11-17,North,Books,Consumer,514.64,29.71,3
+ORD-10302,2025-06-12,North,Electronics,Corporate,694.14,41.13,9
+ORD-10303,2025-02-09,East,Clothing,Home Office,526.06,172.16,5
+ORD-10304,2025-02-02,West,Clothing,Home Office,1402.25,155.68,6
+ORD-10305,2025-11-09,West,Home & Kitchen,Corporate,418.65,121.49,5
+ORD-10306,2025-11-29,East,Books,Consumer,178.35,47.41,2
+ORD-10307,2025-12-21,South,Electronics,Home Office,103.64,8.4,1
+ORD-10308,2025-01-31,North,Home & Kitchen,Corporate,1412.0,454.36,2
+ORD-10309,2025-06-16,East,Clothing,Corporate,688.43,211.36,3
+ORD-10310,2025-10-27,North,Books,Consumer,619.72,54.32,4
+ORD-10311,2025-07-10,East,Electronics,Home Office,916.43,236.03,1
+ORD-10312,2025-04-15,South,Home & Kitchen,Corporate,1100.39,98.51,8
+ORD-10313,2025-09-13,East,Clothing,Corporate,195.32,10.57,9
+ORD-10314,2025-03-01,West,Home & Kitchen,Home Office,220.16,48.72,7
+ORD-10315,2025-12-27,East,Home & Kitchen,Home Office,101.89,11.15,8
+ORD-10316,2025-05-14,West,Books,Corporate,656.48,,9
+ORD-10317,2025-09-21,West,Home & Kitchen,Home Office,1411.47,448.31,2
+ORD-10318,2025-08-09,South,Books,Corporate,977.89,62.03,6
+ORD-10319,2025-01-17,West,Books,Home Office,174.9,51.91,2
+ORD-10320,2025-11-14,West,Electronics,Consumer,427.35,31.01,6
+ORD-10321,2025-12-25,North,Clothing,Consumer,610.68,106.64,3
+ORD-10322,2025-11-03,East,Home & Kitchen,Home Office,1208.64,76.44,3
+ORD-10323,2025-12-02,North,Home & Kitchen,Home Office,149.61,43.64,8
+ORD-10324,2025-07-14,East,Electronics,Home Office,23.47,2.9,7
+ORD-10325,2025-12-15,West,Clothing,Consumer,665.64,227.37,6
+ORD-10326,2025-02-20,North,Books,Home Office,1282.95,396.49,8
+ORD-10327,2025-05-22,West,Electronics,Home Office,903.15,136.52,6
+ORD-10328,2025-01-19,East,Electronics,Consumer,1497.37,474.15,8
+ORD-10329,2025-09-23,South,Electronics,Consumer,262.6,43.18,7
+ORD-10330,2025-09-15,West,Home & Kitchen,Home Office,136.89,35.32,6
+ORD-10331,2025-09-12,West,Clothing,Home Office,1250.73,118.94,7
+ORD-10332,2025-01-24,West,Home & Kitchen,Consumer,210.2,12.16,3
+ORD-10333,2025-08-10,East,Electronics,Corporate,48.01,2.92,7
+ORD-10334,2025-11-25,North,Electronics,Corporate,420.37,122.5,5
+ORD-10335,2025-04-01,East,Books,Corporate,498.15,150.29,6
+ORD-10336,2025-04-05,North,Clothing,Corporate,1371.68,319.02,2
+ORD-10337,2025-12-02,East,Books,Home Office,1364.49,110.99,2
+ORD-10338,2025-08-09,North,Clothing,Consumer,618.87,42.54,4
+ORD-10339,2025-03-29,East,Home & Kitchen,Corporate,1262.32,232.84,4
+ORD-10340,2025-05-08,East,Books,Corporate,1208.83,159.08,5
+ORD-10341,2025-10-06,East,Books,Corporate,627.55,74.69,2
+ORD-10342,2025-03-02,North,Books,Home Office,1213.02,189.28,2
+ORD-10343,2025-09-06,North,Electronics,Home Office,1279.49,362.3,8
+ORD-10344,2025-01-10,East,Books,Home Office,1470.01,191.81,2
+ORD-10345,2025-02-02,South,Electronics,Home Office,421.65,80.74,6
+ORD-10346,2025-01-25,North,Books,Home Office,1045.89,303.74,1
+ORD-10347,2025-05-16,West,Electronics,Consumer,505.1,155.58,4
+ORD-10348,2025-05-06,East,Home & Kitchen,Consumer,1449.17,78.92,7
+ORD-10349,2025-05-25,West,Clothing,Home Office,664.67,115.95,2
+ORD-10350,2025-03-28,North,Clothing,Corporate,922.1,207.99,9
+ORD-10351,2025-01-17,West,Electronics,Corporate,176.16,44.91,3
+ORD-10352,2025-04-05,South,Clothing,Corporate,1296.76,237.3,6
+ORD-10353,2025-12-10,North,Home & Kitchen,Corporate,302.76,55.17,1
+ORD-10354,2025-09-07,West,Clothing,Consumer,90.18,26.18,7
+ORD-10355,2025-11-09,South,Books,Corporate,947.45,242.01,6
+ORD-10356,2025-04-20,South,Books,Home Office,1115.65,160.46,3
+ORD-10357,2025-04-22,South,Home & Kitchen,Consumer,1025.15,354.17,4
+ORD-10358,2025-05-03,South,Electronics,Consumer,67.84,13.98,2
+ORD-10359,2025-07-16,West,Books,Corporate,114.03,19.26,9
+ORD-10360,2025-05-18,West,Clothing,Consumer,1061.22,258.36,6
+ORD-10361,2025-07-10,East,Books,Home Office,494.98,62.21,3
+ORD-10362,2025-05-12,West,Home & Kitchen,Home Office,288.25,75.98,4
+ORD-10363,2025-09-29,East,Electronics,Home Office,207.45,36.55,9
+ORD-10364,2025-08-10,East,Clothing,Home Office,1212.44,99.97,1
+ORD-10365,2025-10-01,South,Books,Home Office,461.71,111.47,6
+ORD-10366,2025-02-20,East,Electronics,Consumer,1305.08,180.64,3
+ORD-10367,2025-11-08,West,Electronics,Home Office,322.98,48.59,6
+ORD-10368,2025-10-20,South,Clothing,Corporate,579.14,83.98,8
+ORD-10369,2025-08-04,West,Home & Kitchen,Corporate,24.21,7.97,5
+ORD-10370,2025-08-17,South,Clothing,Consumer,208.01,14.05,2
+ORD-10371,2025-05-08,West,Home & Kitchen,Consumer,1349.22,363.59,4
+ORD-10372,2025-07-30,South,Home & Kitchen,Consumer,1105.43,344.21,6
+ORD-10373,2025-12-31,East,Home & Kitchen,Consumer,269.03,60.4,6
+ORD-10374,2025-06-29,East,Books,Consumer,799.6,117.76,5
+ORD-10375,2025-03-10,South,Books,Corporate,245.93,64.69,2
+ORD-10376,2025-11-18,North,Clothing,Corporate,1032.81,163.16,5
+ORD-10377,2025-10-18,West,Home & Kitchen,Corporate,35.79,8.48,1
+ORD-10378,2025-10-31,West,Electronics,Home Office,928.29,267.4,8
+ORD-10379,2025-02-28,South,Books,Home Office,1228.98,66.59,7
+ORD-10380,2025-12-23,West,Electronics,Home Office,112.83,33.24,7
+ORD-10381,2025-04-03,North,Books,Corporate,774.41,136.86,9
+ORD-10382,2025-09-22,East,Books,Home Office,507.48,114.86,5
+ORD-10383,2025-02-19,West,Books,Consumer,790.89,237.99,3
+ORD-10384,2025-02-23,South,Clothing,Consumer,50.01,9.69,6
+ORD-10385,2025-09-14,West,Clothing,Corporate,1489.87,413.43,3
+ORD-10386,2025-06-19,East,Clothing,Corporate,63.17,14.63,7
+ORD-10387,2025-03-30,East,Clothing,Home Office,752.57,67.19,8
+ORD-10388,2025-04-04,North,Home & Kitchen,Consumer,206.39,66.24,4
+ORD-10389,2025-03-03,South,Clothing,Consumer,1208.55,216.98,2
+ORD-10390,2025-09-17,West,Books,Home Office,516.3,,7
+ORD-10391,2025-01-31,West,Home & Kitchen,Corporate,68.58,13.05,5
+ORD-10392,2025-06-20,West,Electronics,Corporate,831.63,90.81,6
+ORD-10393,2025-02-10,North,Electronics,Corporate,801.15,280.33,8
+ORD-10394,2025-03-21,South,Electronics,Consumer,1061.79,260.39,9
+ORD-10395,2025-03-12,South,Home & Kitchen,Consumer,724.57,186.05,9
+ORD-10396,2025-04-09,South,Clothing,Corporate,272.73,32.2,3
+ORD-10397,2025-08-31,South,Electronics,Consumer,888.96,62.23,1
+ORD-10398,2025-04-02,South,Books,Consumer,900.67,69.4,7
+ORD-10399,2025-10-07,East,Home & Kitchen,Home Office,1186.48,309.95,6
+ORD-10400,2025-08-09,West,Books,Home Office,563.15,81.71,7
+ORD-10401,2025-01-14,East,Electronics,Corporate,25.51,,7
+ORD-10402,2025-07-06,North,Books,Home Office,1495.76,421.39,4
+ORD-10403,2025-01-08,West,Home & Kitchen,Consumer,241.8,53.57,6
+ORD-10404,2025-06-17,East,Home & Kitchen,Consumer,22.34,6.96,6
+ORD-10405,2025-01-08,North,Books,Corporate,303.92,45.63,4
+ORD-10406,2025-11-14,East,Electronics,Consumer,987.95,172.76,1
+ORD-10407,2025-05-16,West,Clothing,Consumer,1182.79,298.13,8
+ORD-10408,2025-08-31,East,Electronics,Consumer,1369.57,372.09,3
+ORD-10409,2025-05-24,West,Electronics,Home Office,1034.69,287.3,6
+ORD-10410,2025-07-06,North,Clothing,Consumer,666.43,,3
+ORD-10411,2025-10-27,South,Books,Consumer,1363.57,363.22,6
+ORD-10412,2025-10-30,North,Clothing,Consumer,386.94,127.05,4
+ORD-10413,2025-06-21,North,Home & Kitchen,Consumer,46.7,15.42,4
+ORD-10414,2025-09-02,North,Clothing,Home Office,445.57,66.8,8
+ORD-10415,2025-09-16,West,Home & Kitchen,Home Office,920.91,302.15,6
+ORD-10416,2025-07-06,South,Electronics,Consumer,902.35,293.07,1
+ORD-10417,2025-06-27,East,Books,Home Office,1038.29,151.38,9
+ORD-10418,2025-04-09,West,Home & Kitchen,Consumer,260.91,51.33,7
+ORD-10419,2025-05-14,East,Clothing,Corporate,53.31,9.77,4
+ORD-10420,2025-05-29,West,Electronics,Home Office,160.46,26.8,9
+ORD-10421,2025-02-11,East,Books,Consumer,442.33,148.96,2
+ORD-10422,2025-07-16,South,Clothing,Home Office,900.35,135.59,4
+ORD-10423,2025-08-09,West,Books,Home Office,1440.25,226.47,1
+ORD-10424,2025-01-14,South,Books,Home Office,547.8,74.75,7
+ORD-10425,2025-11-05,West,Home & Kitchen,Consumer,991.1,311.76,7
+ORD-10426,2025-09-17,North,Electronics,Home Office,319.08,107.14,9
+ORD-10427,2025-09-12,South,Clothing,Home Office,1498.99,195.47,5
+ORD-10428,2025-07-31,West,Clothing,Corporate,1157.26,365.12,1
+ORD-10429,2025-11-07,East,Clothing,Consumer,1200.36,253.73,3
+ORD-10430,2025-09-16,South,Books,Home Office,990.07,52.08,5
+ORD-10431,2025-03-06,East,Home & Kitchen,Corporate,755.69,208.45,8
+ORD-10432,2025-11-16,South,Home & Kitchen,Home Office,389.8,94.36,4
+ORD-10433,2025-03-28,North,Electronics,Consumer,866.02,277.87,8
+ORD-10434,2025-01-27,North,Home & Kitchen,Corporate,258.43,90.14,9
+ORD-10435,2025-05-26,West,Books,Corporate,1203.65,184.93,7
+ORD-10436,2025-09-03,East,Clothing,Corporate,1344.0,285.96,3
+ORD-10437,2025-07-14,East,Clothing,Home Office,917.64,212.23,8
+ORD-10438,2025-04-11,West,Electronics,Consumer,813.56,150.3,5
+ORD-10439,2025-01-01,West,Clothing,Consumer,311.49,54.15,2
+ORD-10440,2025-09-10,West,Books,Home Office,604.31,203.05,2
+ORD-10441,2025-10-02,East,Electronics,Home Office,840.17,182.86,6
+ORD-10442,2025-03-28,East,Clothing,Corporate,114.14,13.28,4
+ORD-10443,2025-03-08,East,Home & Kitchen,Home Office,232.66,61.18,3
+ORD-10444,2025-01-20,North,Electronics,Home Office,280.77,65.1,6
+ORD-10445,2025-09-17,South,Clothing,Home Office,349.97,37.24,8
+ORD-10446,2025-05-10,East,Books,Corporate,28.77,4.69,7
+ORD-10447,2025-11-28,East,Electronics,Consumer,1246.0,183.03,9
+ORD-10448,2025-04-18,North,Electronics,Home Office,1298.05,327.39,8
+ORD-10449,2025-12-30,West,Clothing,Corporate,1252.74,341.77,3
+ORD-10450,2025-02-02,West,Electronics,Consumer,1352.99,401.97,8
+ORD-10451,2025-10-14,West,Electronics,Corporate,1301.28,347.87,9
+ORD-10452,2025-06-01,West,Clothing,Home Office,280.61,76.61,8
+ORD-10453,2025-11-24,North,Home & Kitchen,Corporate,598.82,44.31,8
+ORD-10454,2025-04-21,West,Home & Kitchen,Home Office,437.59,52.5,3
+ORD-10455,2025-11-04,West,Home & Kitchen,Consumer,202.89,16.29,2
+ORD-10456,2025-11-30,West,Home & Kitchen,Corporate,1284.83,153.09,8
+ORD-10457,2025-10-31,East,Home & Kitchen,Corporate,1013.62,209.77,9
+ORD-10458,2025-08-23,South,Electronics,Consumer,58.92,7.56,9
+ORD-10459,2025-08-01,East,Home & Kitchen,Home Office,843.23,146.24,7
+ORD-10460,2025-05-24,South,Electronics,Consumer,432.28,121.68,4
+ORD-10461,2025-02-22,North,Electronics,Home Office,689.37,37.8,3
+ORD-10462,2025-08-15,West,Clothing,Consumer,1447.64,293.53,4
+ORD-10463,2025-04-30,South,Books,Home Office,735.74,71.62,3
+ORD-10464,2025-09-19,West,Home & Kitchen,Corporate,837.2,230.94,4
+ORD-10465,2025-05-13,North,Books,Corporate,201.91,22.4,7
+ORD-10466,2025-03-19,West,Electronics,Consumer,1069.79,241.62,4
+ORD-10467,2025-08-28,East,Home & Kitchen,Consumer,948.43,133.2,8
+ORD-10468,2025-02-23,South,Clothing,Home Office,590.42,124.15,8
+ORD-10469,2025-11-28,West,Home & Kitchen,Corporate,777.07,258.82,7
+ORD-10470,2025-11-29,North,Books,Corporate,1179.34,183.61,2
+ORD-10471,2025-05-05,North,Clothing,Corporate,294.41,59.94,9
+ORD-10472,2025-09-23,North,Electronics,Corporate,755.03,70.41,8
+ORD-10473,2025-02-15,West,Home & Kitchen,Consumer,115.45,25.66,9
+ORD-10474,2025-09-08,South,Clothing,Corporate,931.12,50.12,5
+ORD-10475,2025-01-03,West,Electronics,Consumer,538.35,,2
+ORD-10476,2025-11-27,South,Home & Kitchen,Home Office,160.43,24.05,1
+ORD-10477,2025-12-11,North,Electronics,Corporate,828.7,129.99,8
+ORD-10478,2025-04-18,North,Home & Kitchen,Corporate,1251.04,430.53,7
+ORD-10479,2025-07-10,North,Books,Corporate,1414.51,294.46,9
+ORD-10480,2025-05-06,East,Books,Corporate,917.94,218.5,8
+ORD-10481,2025-10-09,South,Clothing,Home Office,1169.88,364.7,8
+ORD-10482,2025-12-03,North,Electronics,Consumer,1107.77,92.11,9
+ORD-10483,2025-10-20,North,Books,Consumer,253.1,57.78,7
+ORD-10484,2025-10-06,South,Books,Home Office,602.7,71.26,2
+ORD-10485,2025-10-21,West,Clothing,Corporate,1199.48,82.61,8
+ORD-10486,2025-02-03,West,Home & Kitchen,Consumer,1298.09,426.78,8
+ORD-10487,2025-06-28,South,Electronics,Home Office,1480.88,321.45,1
+ORD-10488,2025-12-15,East,Books,Corporate,855.93,129.9,4
+ORD-10489,2025-03-27,North,Books,Corporate,524.51,149.74,9
+ORD-10490,2025-03-30,North,Electronics,Consumer,806.77,85.55,6
+ORD-10491,2025-03-09,North,Home & Kitchen,Consumer,603.09,78.16,1
+ORD-10492,2025-04-10,West,Clothing,Consumer,972.78,145.77,9
+ORD-10493,2025-07-27,South,Home & Kitchen,Home Office,36.86,9.54,3
+ORD-10494,2025-11-02,North,Electronics,Home Office,393.23,43.69,4
+ORD-10495,2025-09-29,East,Books,Consumer,264.75,90.89,4
+ORD-10496,2025-03-20,West,Electronics,Consumer,665.35,159.03,1
+ORD-10497,2025-01-20,North,Home & Kitchen,Consumer,877.71,119.37,1
+ORD-10498,2025-09-26,South,Home & Kitchen,Corporate,173.59,51.01,3
+ORD-10499,2025-02-20,East,Home & Kitchen,Home Office,809.61,65.08,9
+ORD-10500,2025-09-05,South,Clothing,Home Office,205.12,12.81,4
+ORD-10501,2025-09-03,East,Electronics,Consumer,692.32,184.07,6
+ORD-10502,2025-01-10,North,Books,Corporate,488.11,167.33,2
+ORD-10503,2025-09-22,East,Clothing,Corporate,785.8,141.21,2
+ORD-10504,2025-10-31,East,Home & Kitchen,Corporate,1262.85,440.93,1
+ORD-10505,2025-12-18,South,Home & Kitchen,Corporate,457.54,102.63,5
+ORD-10506,2025-03-21,West,Books,Home Office,1240.53,164.79,9
+ORD-10507,2025-07-28,East,Electronics,Consumer,178.19,44.2,8
+ORD-10508,2025-09-25,East,Home & Kitchen,Home Office,1401.49,366.7,6
+ORD-10509,2025-08-15,North,Home & Kitchen,Corporate,1105.76,262.63,6
+ORD-10510,2025-12-18,East,Electronics,Corporate,171.07,39.42,8
+ORD-10511,2025-04-26,West,Electronics,Home Office,1225.17,252.26,2
+ORD-10512,2025-12-17,East,Home & Kitchen,Corporate,298.78,46.39,8
+ORD-10513,2025-03-06,South,Electronics,Consumer,1081.76,360.21,7
+ORD-10514,2025-04-22,North,Home & Kitchen,Corporate,615.15,149.58,7
+ORD-10515,2025-09-15,North,Clothing,Corporate,993.02,316.3,1
+ORD-10516,2025-09-24,South,Books,Home Office,1040.11,345.04,1
+ORD-10517,2025-05-13,West,Home & Kitchen,Corporate,417.46,118.13,1
+ORD-10518,2025-07-02,South,Books,Consumer,552.63,183.27,5
+ORD-10519,2025-01-21,West,Clothing,Home Office,641.41,129.85,5
+ORD-10520,2025-11-18,East,Electronics,Corporate,755.79,68.35,1
+ORD-10521,2025-11-27,North,Clothing,Home Office,915.33,226.86,5
+ORD-10522,2025-10-02,South,Books,Consumer,1440.82,426.68,1
+ORD-10523,2025-11-24,North,Electronics,Consumer,413.52,75.07,8
+ORD-10524,2025-09-30,North,Books,Home Office,828.15,,8
+ORD-10525,2025-01-03,North,Electronics,Home Office,267.61,27.93,8
+ORD-10526,2025-11-14,West,Home & Kitchen,Consumer,20.08,6.75,9
+ORD-10527,2025-09-17,West,Home & Kitchen,Corporate,1218.49,366.97,8
+ORD-10528,2025-06-25,East,Clothing,Consumer,631.54,197.71,4
+ORD-10529,2025-04-22,South,Home & Kitchen,Consumer,132.61,26.57,6
+ORD-10530,2025-11-21,South,Electronics,Consumer,115.19,19.66,6
+ORD-10531,2025-12-05,South,Books,Corporate,208.7,16.26,3
+ORD-10532,2025-07-24,West,Books,Corporate,688.08,137.91,6
+ORD-10533,2025-08-07,North,Electronics,Corporate,165.84,45.98,7
+ORD-10534,2025-04-17,West,Clothing,Home Office,521.19,45.84,2
+ORD-10535,2025-02-04,East,Clothing,Consumer,370.73,68.36,5
+ORD-10536,2025-12-13,West,Books,Home Office,387.83,54.78,3
+ORD-10537,2025-02-07,East,Home & Kitchen,Consumer,408.61,51.67,3
+ORD-10538,2025-04-30,West,Electronics,Home Office,458.73,61.49,2
+ORD-10539,2025-03-10,East,Home & Kitchen,Home Office,133.38,39.1,4
+ORD-10540,2025-09-05,North,Home & Kitchen,Corporate,1342.03,273.79,5
+ORD-10541,2025-05-01,West,Clothing,Consumer,1103.81,257.5,8
+ORD-10542,2025-08-16,South,Electronics,Consumer,832.29,176.03,5
+ORD-10543,2025-03-10,North,Clothing,Corporate,820.92,62.84,1
+ORD-10544,2025-06-08,North,Home & Kitchen,Home Office,767.65,210.65,2
+ORD-10545,2025-01-17,East,Home & Kitchen,Consumer,537.8,141.17,9
+ORD-10546,2025-06-30,East,Books,Home Office,567.44,138.77,4
+ORD-10547,2025-12-08,West,Clothing,Consumer,654.51,68.53,1
+ORD-10548,2025-04-25,East,Clothing,Corporate,1358.82,206.81,1
+ORD-10549,2025-10-12,West,Electronics,Consumer,332.67,79.78,5
+ORD-10550,2025-03-11,South,Home & Kitchen,Consumer,1328.63,254.61,3
+ORD-10551,2025-06-20,East,Books,Consumer,500.5,84.52,3
+ORD-10552,2025-08-06,West,Home & Kitchen,Home Office,318.45,23.4,9
+ORD-10553,2025-12-30,South,Books,Corporate,1036.42,213.53,3
+ORD-10554,2025-12-07,West,Books,Home Office,1207.97,353.58,5
+ORD-10555,2025-04-06,West,Books,Home Office,303.82,19.75,8
+ORD-10556,2025-02-12,East,Clothing,Home Office,1316.94,183.57,1
+ORD-10557,2025-05-17,East,Home & Kitchen,Consumer,929.67,59.6,7
+ORD-10558,2025-03-08,North,Clothing,Corporate,832.73,278.74,5
+ORD-10559,2025-07-04,East,Books,Corporate,443.82,123.95,6
+ORD-10560,2025-03-29,East,Books,Home Office,1036.65,143.27,1
+ORD-10561,2025-12-16,South,Electronics,Consumer,100.32,22.97,9
+ORD-10562,2025-01-20,North,Electronics,Corporate,471.88,150.52,3
+ORD-10563,2025-04-04,South,Clothing,Consumer,32.06,3.65,2
+ORD-10564,2025-11-01,North,Clothing,Consumer,1170.24,158.71,4
+ORD-10565,2025-07-29,West,Home & Kitchen,Home Office,1057.69,145.11,1
+ORD-10566,2025-12-08,North,Books,Corporate,240.04,44.86,6
+ORD-10567,2025-11-30,West,Home & Kitchen,Corporate,724.34,45.9,9
+ORD-10568,2025-08-30,North,Clothing,Consumer,683.84,162.67,6
+ORD-10569,2025-04-30,West,Electronics,Corporate,582.69,181.44,1
+ORD-10570,2025-08-22,South,Electronics,Consumer,680.97,127.54,1
+ORD-10571,2025-04-25,North,Books,Consumer,778.01,122.96,6
+ORD-10572,2025-10-31,South,Electronics,Home Office,487.38,111.2,5
+ORD-10573,2025-02-20,North,Electronics,Corporate,176.81,14.79,8
+ORD-10574,2025-11-25,North,Books,Home Office,177.42,13.25,7
+ORD-10575,2025-11-05,West,Books,Home Office,458.17,120.56,6
+ORD-10576,2025-09-11,North,Electronics,Home Office,330.47,23.87,6
+ORD-10577,2025-09-08,South,Clothing,Corporate,1394.95,227.92,6
+ORD-10578,2025-03-19,South,Electronics,Corporate,889.52,60.93,2
+ORD-10579,2025-07-28,North,Home & Kitchen,Corporate,970.62,128.92,6
+ORD-10580,2025-09-26,West,Home & Kitchen,Home Office,1251.71,169.46,2
+ORD-10581,2025-02-26,South,Home & Kitchen,Corporate,1401.45,222.75,3
+ORD-10582,2025-10-16,East,Home & Kitchen,Consumer,1012.64,233.67,3
+ORD-10583,2025-06-13,West,Home & Kitchen,Home Office,1184.08,115.82,5
+ORD-10584,2025-03-27,South,Clothing,Home Office,191.2,63.84,2
+ORD-10585,2025-03-07,North,Electronics,Consumer,178.24,35.9,5
+ORD-10586,2025-11-10,East,Books,Consumer,1042.24,219.09,1
+ORD-10587,2025-12-22,West,Electronics,Home Office,480.84,149.8,7
+ORD-10588,2025-06-21,West,Clothing,Corporate,1075.26,104.63,3
+ORD-10589,2025-03-26,West,Clothing,Home Office,233.88,21.09,2
+ORD-10590,2025-03-01,West,Home & Kitchen,Corporate,693.42,194.26,2
+ORD-10591,2025-10-01,North,Clothing,Consumer,246.88,80.09,5
+ORD-10592,2025-04-17,North,Books,Consumer,789.6,226.13,6
+ORD-10593,2025-03-02,North,Electronics,Home Office,1224.47,242.51,7
+ORD-10594,2025-02-14,West,Electronics,Home Office,174.47,60.16,1
+ORD-10595,2025-03-03,South,Clothing,Consumer,1383.72,244.81,3
+ORD-10596,2025-01-13,North,Home & Kitchen,Home Office,1208.39,215.26,1
+ORD-10597,2025-06-22,West,Home & Kitchen,Consumer,1038.79,143.83,7
+ORD-10598,2025-09-16,South,Electronics,Corporate,667.91,37.73,8
+ORD-10599,2025-10-23,South,Clothing,Home Office,577.05,145.23,8
+ORD-10600,2025-01-29,East,Electronics,Consumer,807.29,164.19,5
+ORD-10601,2025-06-24,South,Electronics,Home Office,969.68,286.23,5
+ORD-10602,2025-02-05,East,Home & Kitchen,Consumer,908.37,77.59,1
+ORD-10603,2025-04-03,East,Home & Kitchen,Corporate,1053.15,175.23,6
+ORD-10604,2025-05-10,East,Books,Corporate,889.03,171.54,7
+ORD-10605,2025-05-12,North,Clothing,Consumer,1444.28,,3
+ORD-10606,2025-08-29,East,Clothing,Home Office,602.16,183.04,5
+ORD-10607,2025-06-28,West,Books,Home Office,807.34,236.32,1
+ORD-10608,2025-04-26,West,Books,Home Office,1369.19,274.73,1
+ORD-10609,2025-06-01,North,Clothing,Corporate,342.5,83.67,8
+ORD-10610,2025-06-27,North,Clothing,Consumer,1106.17,79.73,9
+ORD-10611,2025-01-14,North,Electronics,Corporate,1076.85,291.59,5
+ORD-10612,2025-03-29,West,Electronics,Corporate,295.52,25.92,3
+ORD-10613,2025-08-17,South,Home & Kitchen,Corporate,1095.35,222.38,9
+ORD-10614,2025-05-06,East,Books,Corporate,68.81,21.03,9
+ORD-10615,2025-07-10,South,Books,Corporate,1012.07,245.66,9
+ORD-10616,2025-06-14,South,Books,Corporate,747.95,209.83,4
+ORD-10617,2025-11-14,North,Electronics,Consumer,871.77,285.57,7
+ORD-10618,2025-04-29,North,Home & Kitchen,Corporate,546.0,161.7,6
+ORD-10619,2025-12-21,West,Clothing,Consumer,521.43,53.54,8
+ORD-10620,2025-07-29,West,Clothing,Home Office,71.62,12.4,4
+ORD-10621,2025-11-10,West,Electronics,Consumer,822.69,230.78,4
+ORD-10622,2025-10-15,North,Electronics,Consumer,394.23,80.9,2
+ORD-10623,2025-09-22,South,Books,Corporate,1306.05,431.27,5
+ORD-10624,2025-06-13,North,Clothing,Consumer,316.01,28.2,9
+ORD-10625,2025-07-21,East,Home & Kitchen,Home Office,945.31,327.0,9
+ORD-10626,2025-05-22,South,Books,Home Office,454.23,142.33,7
+ORD-10627,2025-03-08,South,Books,Corporate,542.45,130.68,5
+ORD-10628,2025-09-29,East,Home & Kitchen,Consumer,1191.63,229.64,9
+ORD-10629,2025-08-28,South,Books,Home Office,1345.21,132.87,6
+ORD-10630,2025-08-26,North,Electronics,Home Office,550.59,47.08,3
+ORD-10631,2025-06-23,West,Clothing,Consumer,1027.29,294.82,5
+ORD-10632,2025-05-08,East,Home & Kitchen,Consumer,765.58,186.64,6
+ORD-10633,2025-05-20,East,Clothing,Home Office,1425.39,443.02,2
+ORD-10634,2025-12-31,East,Clothing,Consumer,1276.57,263.59,9
+ORD-10635,2025-04-13,North,Electronics,Corporate,515.94,31.14,8
+ORD-10636,2025-01-18,North,Home & Kitchen,Corporate,330.6,75.95,7
+ORD-10637,2025-10-16,West,Clothing,Corporate,645.86,141.91,6
+ORD-10638,2025-10-23,East,Books,Consumer,1339.1,389.9,7
+ORD-10639,2025-11-30,West,Clothing,Home Office,1083.98,291.46,9
+ORD-10640,2025-12-27,North,Electronics,Consumer,572.05,54.14,5
+ORD-10641,2025-02-01,South,Home & Kitchen,Corporate,1367.2,326.97,4
+ORD-10642,2025-10-06,North,Books,Corporate,1136.26,217.55,2
+ORD-10643,2025-04-18,North,Books,Home Office,1363.37,192.77,5
+ORD-10644,2025-12-19,North,Electronics,Corporate,366.77,82.04,2
+ORD-10645,2025-02-10,West,Home & Kitchen,Consumer,172.5,20.4,7
+ORD-10646,2025-08-06,South,Electronics,Consumer,142.45,42.34,1
+ORD-10647,2025-10-15,West,Books,Consumer,448.24,56.5,5
+ORD-10648,2025-02-03,West,Clothing,Corporate,862.34,283.22,3
+ORD-10649,2025-12-06,South,Books,Home Office,1117.87,309.66,5
+ORD-10650,2025-07-30,North,Clothing,Consumer,1159.5,356.25,8
+ORD-10651,2025-04-27,North,Clothing,Home Office,282.81,39.91,2
+ORD-10652,2025-02-28,South,Home & Kitchen,Home Office,1130.14,342.3,2
+ORD-10653,2025-09-02,South,Home & Kitchen,Home Office,958.69,149.72,4
+ORD-10654,2025-07-01,East,Electronics,Home Office,920.16,106.74,7
+ORD-10655,2025-12-16,North,Clothing,Home Office,1231.73,107.63,1
+ORD-10656,2025-11-02,North,Electronics,Consumer,341.37,55.33,4
+ORD-10657,2025-01-14,East,Home & Kitchen,Home Office,1301.24,77.6,1
+ORD-10658,2025-03-09,West,Electronics,Home Office,1061.19,243.41,2
+ORD-10659,2025-04-30,South,Books,Corporate,655.4,222.72,8
+ORD-10660,2025-11-24,East,Clothing,Home Office,245.18,79.36,7
+ORD-10661,2025-08-29,East,Books,Corporate,1344.76,333.2,3
+ORD-10662,2025-04-07,West,Clothing,Consumer,167.6,54.74,1
+ORD-10663,2025-12-12,East,Books,Home Office,936.64,112.06,3
+ORD-10664,2025-11-03,West,Electronics,Consumer,701.11,225.15,5
+ORD-10665,2025-06-13,South,Clothing,Consumer,297.84,88.27,3
+ORD-10666,2025-12-11,South,Books,Home Office,883.13,105.08,6
+ORD-10667,2025-01-20,South,Home & Kitchen,Home Office,1231.24,427.38,6
+ORD-10668,2025-05-12,South,Home & Kitchen,Home Office,794.23,190.54,7
+ORD-10669,2025-08-13,South,Clothing,Consumer,535.06,142.16,6
+ORD-10670,2025-03-22,South,Books,Home Office,179.63,44.02,7
+ORD-10671,2025-05-04,West,Electronics,Home Office,1245.31,205.29,1
+ORD-10672,2025-12-03,South,Books,Home Office,933.98,321.69,9
+ORD-10673,2025-05-28,South,Home & Kitchen,Home Office,777.62,113.44,1
+ORD-10674,2025-05-27,South,Home & Kitchen,Home Office,748.33,58.57,7
+ORD-10675,2025-09-13,South,Home & Kitchen,Consumer,1136.34,63.81,1
+ORD-10676,2025-11-08,East,Home & Kitchen,Home Office,1235.27,244.47,8
+ORD-10677,2025-01-28,West,Home & Kitchen,Corporate,363.86,86.3,4
+ORD-10678,2025-09-17,North,Clothing,Corporate,859.4,185.66,6
+ORD-10679,2025-07-16,West,Electronics,Consumer,125.31,39.88,2
+ORD-10680,2025-10-08,West,Books,Consumer,1335.27,162.99,6
+ORD-10681,2025-08-04,West,Books,Consumer,401.33,64.16,3
+ORD-10682,2025-09-06,East,Books,Consumer,931.84,179.19,6
+ORD-10683,2025-06-26,West,Home & Kitchen,Consumer,679.31,212.01,9
+ORD-10684,2025-08-31,North,Electronics,Consumer,378.78,39.89,5
+ORD-10685,2025-03-16,West,Clothing,Corporate,1025.39,196.0,1
+ORD-10686,2025-08-20,East,Books,Home Office,1276.72,398.86,9
+ORD-10687,2025-05-26,North,Books,Consumer,47.48,15.03,5
+ORD-10688,2025-06-30,North,Electronics,Home Office,318.16,38.26,3
+ORD-10689,2025-04-14,West,Home & Kitchen,Corporate,652.56,220.95,8
+ORD-10690,2025-08-19,East,Books,Consumer,951.45,326.15,6
+ORD-10691,2025-09-20,South,Clothing,Consumer,1465.21,381.05,5
+ORD-10692,2025-01-29,South,Home & Kitchen,Home Office,438.76,,8
+ORD-10693,2025-10-12,South,Electronics,Consumer,1189.8,128.64,4
+ORD-10694,2025-10-20,West,Home & Kitchen,Home Office,721.17,209.05,3
+ORD-10695,2025-04-30,North,Electronics,Home Office,560.14,74.0,4
+ORD-10696,2025-06-08,North,Books,Corporate,1185.24,409.2,2
+ORD-10697,2025-10-07,North,Books,Corporate,1385.2,346.14,7
+ORD-10698,2025-10-05,South,Home & Kitchen,Home Office,144.32,36.72,7
+ORD-10699,2025-02-14,North,Home & Kitchen,Corporate,150.89,50.75,5
+ORD-10700,2025-09-07,West,Clothing,Corporate,588.61,105.77,5
+ORD-10701,2025-12-27,East,Books,Corporate,884.72,57.13,5
+ORD-10702,2025-12-14,West,Clothing,Corporate,574.6,188.27,4
+ORD-10703,2025-08-05,West,Electronics,Corporate,166.01,39.13,6
+ORD-10704,2025-05-14,East,Electronics,Home Office,1022.24,199.55,3
+ORD-10705,2025-01-28,West,Clothing,Corporate,1271.53,411.18,8
+ORD-10706,2025-10-13,South,Clothing,Corporate,1075.92,54.95,3
+ORD-10707,2025-01-13,South,Books,Corporate,436.26,146.6,1
+ORD-10708,2025-02-09,East,Books,Corporate,840.95,62.32,1
+ORD-10709,2025-02-23,North,Electronics,Corporate,1434.32,84.04,7
+ORD-10710,2025-07-12,West,Electronics,Home Office,835.1,114.43,8
+ORD-10711,2025-12-05,East,Books,Home Office,1377.28,481.34,4
+ORD-10712,2025-10-13,South,Clothing,Corporate,1453.4,271.26,4
+ORD-10713,2025-04-08,West,Books,Corporate,1392.59,287.29,2
+ORD-10714,2025-07-12,East,Books,Home Office,1152.43,220.23,9
+ORD-10715,2025-04-12,South,Clothing,Corporate,251.93,68.64,8
+ORD-10716,2025-10-18,West,Electronics,Consumer,508.96,93.86,4
+ORD-10717,2025-05-04,North,Books,Home Office,1358.62,273.04,3
+ORD-10718,2025-04-09,South,Clothing,Consumer,379.64,109.58,2
+ORD-10719,2025-01-10,West,Clothing,Consumer,532.72,29.71,5
+ORD-10720,2025-07-07,West,Books,Home Office,1331.84,283.02,2
+ORD-10721,2025-08-14,South,Home & Kitchen,Consumer,611.94,108.31,8
+ORD-10722,2025-08-13,South,Books,Consumer,255.1,27.73,2
+ORD-10723,2025-07-29,East,Books,Corporate,82.12,8.46,9
+ORD-10724,2025-01-20,North,Electronics,Consumer,447.23,148.21,4
+ORD-10725,2025-01-28,South,Home & Kitchen,Home Office,971.27,204.83,7
+ORD-10726,2025-08-16,South,Clothing,Consumer,1175.8,355.25,4
+ORD-10727,2025-12-25,South,Books,Consumer,459.0,145.43,9
+ORD-10728,2025-06-06,South,Clothing,Corporate,1105.52,184.18,4
+ORD-10729,2025-05-02,South,Home & Kitchen,Corporate,1459.83,189.77,7
+ORD-10730,2025-04-30,South,Electronics,Home Office,1490.78,400.53,7
+ORD-10731,2025-12-11,South,Clothing,Corporate,699.56,87.82,6
+ORD-10732,2025-05-17,East,Electronics,Consumer,797.37,272.87,7
+ORD-10733,2025-09-16,East,Books,Home Office,285.1,23.09,3
+ORD-10734,2025-02-19,South,Home & Kitchen,Corporate,1212.77,108.74,3
+ORD-10735,2025-12-12,North,Clothing,Home Office,741.13,116.08,3
+ORD-10736,2025-01-07,North,Home & Kitchen,Home Office,141.87,,8
+ORD-10737,2025-06-19,West,Clothing,Consumer,496.33,61.52,4
+ORD-10738,2025-05-24,North,Home & Kitchen,Corporate,469.63,95.26,2
+ORD-10739,2025-10-06,East,Clothing,Consumer,338.53,23.62,9
+ORD-10740,2025-03-01,North,Books,Consumer,690.44,140.76,8
+ORD-10741,2025-10-08,South,Electronics,Home Office,1053.75,299.35,1
+ORD-10742,2025-01-09,West,Clothing,Consumer,1064.79,223.88,6
+ORD-10743,2025-07-15,East,Electronics,Corporate,1151.08,258.72,5
+ORD-10744,2025-02-07,North,Books,Corporate,1283.15,217.43,6
+ORD-10745,2025-05-25,North,Home & Kitchen,Corporate,852.73,165.18,6
+ORD-10746,2025-09-01,North,Books,Consumer,1359.95,235.06,5
+ORD-10747,2025-09-03,East,Electronics,Home Office,664.38,113.32,7
+ORD-10748,2025-12-22,West,Home & Kitchen,Home Office,1070.84,59.97,2
+ORD-10749,2025-08-15,East,Clothing,Home Office,361.93,23.15,9
+ORD-10750,2025-07-10,East,Electronics,Corporate,893.64,213.58,6
+ORD-10751,2025-10-04,West,Clothing,Home Office,1465.19,469.67,6
+ORD-10752,2025-06-10,West,Home & Kitchen,Consumer,34.59,8.76,5
+ORD-10753,2025-02-07,East,Books,Home Office,226.5,64.11,3
+ORD-10754,2025-07-05,North,Electronics,Corporate,46.45,6.99,4
+ORD-10755,2025-02-27,West,Books,Consumer,331.73,111.01,1
+ORD-10756,2025-02-01,South,Home & Kitchen,Consumer,1445.04,82.73,7
+ORD-10757,2025-03-04,East,Home & Kitchen,Consumer,535.45,89.35,4
+ORD-10758,2025-01-28,West,Books,Corporate,275.73,43.37,7
+ORD-10759,2025-07-27,West,Home & Kitchen,Home Office,987.33,297.63,6
+ORD-10760,2025-01-12,South,Books,Corporate,933.59,160.15,5
+ORD-10761,2025-09-01,West,Electronics,Consumer,1399.51,371.12,4
+ORD-10762,2025-11-17,South,Electronics,Consumer,723.29,241.24,6
+ORD-10763,2025-02-10,West,Home & Kitchen,Consumer,1489.03,377.94,2
+ORD-10764,2025-03-15,East,Electronics,Home Office,755.15,173.69,4
+ORD-10765,2025-01-24,South,Electronics,Corporate,1252.14,331.12,1
+ORD-10766,2025-09-15,West,Electronics,Home Office,226.0,11.53,8
+ORD-10767,2025-03-27,East,Home & Kitchen,Consumer,338.23,37.67,4
+ORD-10768,2025-09-20,West,Home & Kitchen,Home Office,928.96,98.9,7
+ORD-10769,2025-02-28,North,Home & Kitchen,Corporate,1388.46,112.75,2
+ORD-10770,2025-04-23,North,Clothing,Corporate,77.15,6.83,7
+ORD-10771,2025-11-08,West,Books,Home Office,1096.55,176.78,4
+ORD-10772,2025-09-14,North,Home & Kitchen,Corporate,162.44,36.84,7
+ORD-10773,2025-08-15,North,Books,Corporate,841.43,114.57,6
+ORD-10774,2025-12-11,South,Books,Corporate,542.64,,4
+ORD-10775,2025-10-15,South,Clothing,Corporate,362.01,73.38,8
+ORD-10776,2025-02-09,North,Home & Kitchen,Consumer,958.32,152.61,5
+ORD-10777,2025-10-26,South,Electronics,Consumer,330.7,93.54,4
+ORD-10778,2025-06-14,North,Clothing,Home Office,1170.2,138.9,8
+ORD-10779,2025-04-14,East,Clothing,Home Office,278.56,57.01,6
+ORD-10780,2025-07-21,South,Books,Consumer,441.61,121.77,5
+ORD-10781,2025-01-19,North,Electronics,Consumer,295.33,97.57,9
+ORD-10782,2025-06-26,East,Books,Home Office,975.77,83.21,6
+ORD-10783,2025-02-28,West,Electronics,Corporate,1161.72,58.85,3
+ORD-10784,2025-09-19,East,Home & Kitchen,Consumer,1128.4,325.26,2
+ORD-10785,2025-05-11,North,Home & Kitchen,Home Office,1089.2,,9
+ORD-10786,2025-01-21,South,Clothing,Consumer,1184.25,179.63,5
+ORD-10787,2025-05-09,North,Clothing,Consumer,1013.76,127.46,5
+ORD-10788,2025-03-11,West,Books,Home Office,1414.67,489.33,2
+ORD-10789,2025-08-31,West,Books,Corporate,818.28,231.55,9
+ORD-10790,2025-10-05,North,Clothing,Home Office,874.47,277.14,5
+ORD-10791,2025-10-03,South,Clothing,Corporate,623.83,51.17,9
+ORD-10792,2025-12-24,North,Books,Consumer,1388.63,424.3,5
+ORD-10793,2025-05-07,North,Home & Kitchen,Home Office,1443.27,309.85,9
+ORD-10794,2025-05-14,North,Home & Kitchen,Corporate,614.5,178.03,1
+ORD-10795,2025-08-10,South,Books,Home Office,1021.96,258.06,2
+ORD-10796,2025-01-14,North,Home & Kitchen,Consumer,435.27,94.47,1
+ORD-10797,2025-02-05,East,Home & Kitchen,Corporate,1425.32,216.45,9
+ORD-10798,2025-07-21,West,Home & Kitchen,Consumer,310.51,34.63,8
+ORD-10799,2025-02-27,South,Books,Home Office,886.13,118.98,5
+ORD-10800,2025-03-24,North,Books,Home Office,168.34,55.49,3
+ORD-10801,2025-10-21,West,Books,Home Office,1047.92,69.84,4
+ORD-10802,2025-05-21,South,Clothing,Consumer,279.3,71.84,3
+ORD-10803,2025-08-24,North,Electronics,Consumer,752.03,67.38,7
+ORD-10804,2025-08-04,East,Electronics,Corporate,1189.0,293.53,6
+ORD-10805,2025-10-24,West,Home & Kitchen,Consumer,1266.41,150.7,8
+ORD-10806,2025-04-25,West,Books,Corporate,109.13,8.12,2
+ORD-10807,2025-03-23,East,Books,Consumer,633.38,51.95,7
+ORD-10808,2025-08-18,East,Home & Kitchen,Consumer,67.39,9.37,8
+ORD-10809,2025-02-01,North,Home & Kitchen,Corporate,1358.55,148.67,4
+ORD-10810,2025-10-25,North,Clothing,Consumer,480.34,70.13,1
+ORD-10811,2025-01-11,South,Home & Kitchen,Home Office,1360.7,468.77,9
+ORD-10812,2025-11-27,East,Books,Consumer,617.28,160.94,2
+ORD-10813,2025-01-18,North,Home & Kitchen,Consumer,738.35,115.31,2
+ORD-10814,2025-07-02,West,Clothing,Corporate,598.26,199.8,3
+ORD-10815,2025-04-06,South,Books,Corporate,1407.54,381.44,4
+ORD-10816,2025-05-17,North,Books,Consumer,612.35,157.35,8
+ORD-10817,2025-06-04,South,Electronics,Consumer,1024.02,254.12,8
+ORD-10818,2025-09-06,North,Home & Kitchen,Home Office,1134.36,232.94,7
+ORD-10819,2025-07-30,North,Books,Consumer,895.04,129.28,7
+ORD-10820,2025-05-26,North,Home & Kitchen,Corporate,1020.11,344.87,7
+ORD-10821,2025-09-04,South,Books,Consumer,1398.27,236.82,7
+ORD-10822,2025-05-12,West,Electronics,Home Office,701.28,154.24,1
+ORD-10823,2025-04-07,South,Home & Kitchen,Home Office,744.15,79.84,3
+ORD-10824,2025-06-21,West,Clothing,Consumer,1418.88,329.96,4
+ORD-10825,2025-06-15,East,Clothing,Home Office,201.06,66.9,7
+ORD-10826,2025-12-30,North,Electronics,Corporate,621.36,62.17,2
+ORD-10827,2025-12-18,North,Electronics,Corporate,215.57,49.29,4
+ORD-10828,2025-01-05,South,Books,Consumer,1137.37,87.23,6
+ORD-10829,2025-09-28,North,Home & Kitchen,Corporate,347.69,25.92,7
+ORD-10830,2025-08-07,North,Books,Consumer,1369.16,219.72,2
+ORD-10831,2025-10-17,West,Home & Kitchen,Consumer,1120.08,128.9,3
+ORD-10832,2025-06-23,West,Electronics,Consumer,1083.29,181.57,8
+ORD-10833,2025-01-19,West,Home & Kitchen,Consumer,1430.15,412.41,3
+ORD-10834,2025-04-20,West,Electronics,Corporate,108.37,37.7,4
+ORD-10835,2025-04-29,North,Home & Kitchen,Corporate,491.64,85.04,3
+ORD-10836,2025-12-19,West,Books,Home Office,330.04,19.51,5
+ORD-10837,2025-10-27,North,Books,Consumer,802.63,221.64,5
+ORD-10838,2025-05-29,East,Books,Home Office,976.45,59.0,5
+ORD-10839,2025-03-17,South,Clothing,Corporate,627.56,194.44,3
+ORD-10840,2025-01-06,South,Home & Kitchen,Consumer,478.7,153.18,8
+ORD-10841,2025-03-28,South,Clothing,Home Office,192.28,21.41,5
+ORD-10842,2025-11-01,South,Electronics,Home Office,1296.36,397.05,5
+ORD-10843,2025-10-26,West,Home & Kitchen,Corporate,374.6,88.56,5
+ORD-10844,2025-08-30,North,Books,Consumer,126.38,28.29,3
+ORD-10845,2025-06-17,South,Clothing,Corporate,111.29,12.53,1
+ORD-10846,2025-11-28,South,Clothing,Corporate,897.81,145.17,6
+ORD-10847,2025-07-20,East,Clothing,Home Office,315.17,75.69,7
+ORD-10848,2025-01-08,West,Books,Home Office,154.18,38.57,6
+ORD-10849,2025-05-02,South,Clothing,Home Office,325.99,77.09,1
+ORD-10850,2025-02-16,West,Electronics,Home Office,1179.78,165.82,2
+ORD-10851,2025-09-18,South,Electronics,Corporate,1482.2,77.7,6
+ORD-10852,2025-12-15,East,Books,Corporate,229.49,60.38,2
+ORD-10853,2025-07-11,East,Electronics,Home Office,104.21,6.85,2
+ORD-10854,2025-08-11,East,Electronics,Consumer,614.14,171.62,6
+ORD-10855,2025-02-24,South,Clothing,Consumer,1266.12,67.24,7
+ORD-10856,2025-09-23,East,Electronics,Consumer,183.67,43.77,3
+ORD-10857,2025-12-23,East,Books,Home Office,824.82,207.27,6
+ORD-10858,2025-05-13,North,Books,Home Office,1009.18,119.54,6
+ORD-10859,2025-07-09,South,Clothing,Corporate,839.59,222.79,5
+ORD-10860,2025-10-22,East,Home & Kitchen,Corporate,863.95,138.06,9
+ORD-10861,2025-01-30,East,Books,Consumer,827.87,125.38,4
+ORD-10862,2025-06-04,North,Clothing,Consumer,1400.37,181.13,7
+ORD-10863,2025-09-04,East,Electronics,Consumer,436.85,101.03,3
+ORD-10864,2025-08-30,South,Clothing,Home Office,1047.46,332.86,8
+ORD-10865,2025-02-27,East,Books,Corporate,90.15,21.08,3
+ORD-10866,2025-08-01,South,Books,Consumer,1101.45,69.06,9
+ORD-10867,2025-05-15,North,Clothing,Consumer,534.55,45.39,4
+ORD-10868,2025-08-31,West,Clothing,Consumer,1432.3,132.75,5
+ORD-10869,2025-01-08,East,Electronics,Corporate,230.98,69.64,3
+ORD-10870,2025-02-22,East,Electronics,Corporate,1293.69,,5
+ORD-10871,2025-04-08,South,Home & Kitchen,Home Office,239.55,67.03,6
+ORD-10872,2025-04-22,North,Books,Consumer,522.94,105.04,8
+ORD-10873,2025-01-18,East,Home & Kitchen,Home Office,1376.97,420.31,6
+ORD-10874,2025-03-16,West,Home & Kitchen,Consumer,190.83,34.61,9
+ORD-10875,2025-11-06,North,Electronics,Corporate,26.47,3.5,3
+ORD-10876,2025-08-03,East,Home & Kitchen,Home Office,1452.59,212.1,7
+ORD-10877,2025-05-12,East,Home & Kitchen,Corporate,1133.66,375.38,6
+ORD-10878,2025-04-27,North,Clothing,Corporate,875.09,60.85,5
+ORD-10879,2025-05-20,West,Electronics,Corporate,1121.57,213.2,4
+ORD-10880,2025-07-13,South,Home & Kitchen,Consumer,583.27,32.41,5
+ORD-10881,2025-11-13,West,Electronics,Corporate,1485.04,255.52,3
+ORD-10882,2025-04-05,North,Electronics,Corporate,1186.04,149.64,3
+ORD-10883,2025-04-19,West,Electronics,Home Office,689.8,216.84,6
+ORD-10884,2025-05-23,North,Clothing,Consumer,743.29,235.61,9
+ORD-10885,2025-11-20,South,Books,Corporate,166.18,29.04,8
+ORD-10886,2025-11-25,East,Home & Kitchen,Corporate,450.48,58.54,5
+ORD-10887,2025-10-29,East,Books,Corporate,1250.36,199.45,1
+ORD-10888,2025-09-08,West,Electronics,Consumer,684.49,101.98,9
+ORD-10889,2025-04-23,North,Electronics,Corporate,1332.62,237.03,4
+ORD-10890,2025-03-05,East,Clothing,Home Office,463.03,156.47,1
+ORD-10891,2025-06-01,East,Electronics,Home Office,633.64,35.05,2
+ORD-10892,2025-02-01,East,Home & Kitchen,Consumer,611.27,211.37,4
+ORD-10893,2025-01-28,South,Books,Corporate,850.22,78.88,7
+ORD-10894,2025-03-30,West,Electronics,Corporate,1398.49,356.62,7
+ORD-10895,2025-05-14,West,Home & Kitchen,Corporate,1248.34,120.25,9
+ORD-10896,2025-07-24,South,Books,Consumer,1482.23,422.53,1
+ORD-10897,2025-08-08,East,Clothing,Consumer,873.61,87.06,3
+ORD-10898,2025-08-10,North,Books,Consumer,1089.91,279.93,9
+ORD-10899,2025-04-22,East,Clothing,Consumer,829.6,54.76,1
+ORD-10900,2025-10-05,West,Electronics,Consumer,1496.37,220.22,4
+ORD-10901,2025-08-02,West,Clothing,Corporate,1424.43,279.95,7
+ORD-10902,2025-07-02,South,Clothing,Corporate,554.95,93.83,3
+ORD-10903,2025-06-13,North,Home & Kitchen,Consumer,1284.76,328.59,2
+ORD-10904,2025-07-29,South,Clothing,Home Office,1260.74,273.14,1
+ORD-10905,2025-09-23,West,Clothing,Consumer,206.63,34.69,6
+ORD-10906,2025-04-18,South,Home & Kitchen,Home Office,1252.48,108.28,1
+ORD-10907,2025-07-27,North,Home & Kitchen,Corporate,1300.48,285.97,7
+ORD-10908,2025-02-14,West,Clothing,Home Office,796.39,93.04,5
+ORD-10909,2025-12-18,East,Electronics,Consumer,519.34,45.11,6
+ORD-10910,2025-10-26,North,Clothing,Home Office,898.93,95.69,5
+ORD-10911,2025-07-18,North,Books,Home Office,444.26,126.37,3
+ORD-10912,2025-02-21,South,Clothing,Home Office,181.28,22.7,7
+ORD-10913,2025-03-10,East,Clothing,Home Office,381.46,57.42,4
+ORD-10914,2025-06-06,North,Electronics,Corporate,517.52,71.57,4
+ORD-10915,2025-03-16,South,Clothing,Consumer,1057.04,134.56,5
+ORD-10916,2025-12-26,North,Home & Kitchen,Home Office,1212.34,197.93,9
+ORD-10917,2025-03-27,East,Home & Kitchen,Corporate,590.86,189.71,5
+ORD-10918,2025-12-21,South,Books,Home Office,495.63,30.36,2
+ORD-10919,2025-03-28,West,Electronics,Home Office,123.65,35.53,7
+ORD-10920,2025-05-18,East,Clothing,Consumer,527.48,92.58,2
+ORD-10921,2025-09-04,West,Home & Kitchen,Corporate,493.08,81.03,9
+ORD-10922,2025-02-14,South,Electronics,Consumer,1479.55,438.45,8
+ORD-10923,2025-08-26,West,Clothing,Home Office,586.64,,9
+ORD-10924,2025-11-09,South,Home & Kitchen,Corporate,761.39,255.33,4
+ORD-10925,2025-10-12,East,Electronics,Corporate,694.77,204.37,5
+ORD-10926,2025-11-10,North,Clothing,Consumer,84.52,11.97,4
+ORD-10927,2025-11-03,East,Electronics,Corporate,518.32,48.38,1
+ORD-10928,2025-06-27,South,Clothing,Corporate,478.16,112.4,2
+ORD-10929,2025-05-05,South,Clothing,Corporate,313.57,86.1,5
+ORD-10930,2025-10-08,South,Clothing,Consumer,165.22,30.41,9
+ORD-10931,2025-10-20,West,Books,Corporate,1329.98,84.43,3
+ORD-10932,2025-10-10,South,Electronics,Home Office,753.35,61.76,7
+ORD-10933,2025-04-08,North,Books,Corporate,123.28,15.63,2
+ORD-10934,2025-05-25,West,Clothing,Corporate,625.09,69.91,1
+ORD-10935,2025-04-27,North,Electronics,Corporate,1134.82,315.75,4
+ORD-10936,2025-10-01,North,Home & Kitchen,Consumer,304.94,83.41,1
+ORD-10937,2025-06-11,East,Books,Home Office,474.02,91.28,5
+ORD-10938,2025-11-29,South,Books,Consumer,1253.42,412.05,3
+ORD-10939,2025-12-05,West,Electronics,Consumer,260.16,82.67,7
+ORD-10940,2025-11-01,West,Books,Consumer,655.39,181.11,1
+ORD-10941,2025-07-12,West,Clothing,Corporate,1261.9,407.49,9
+ORD-10942,2025-10-06,South,Home & Kitchen,Consumer,1305.39,315.68,9
+ORD-10943,2025-05-25,South,Books,Home Office,35.15,1.99,5
+ORD-10944,2025-10-25,South,Clothing,Home Office,1480.46,209.93,5
+ORD-10945,2025-08-02,West,Home & Kitchen,Corporate,471.78,161.63,9
+ORD-10946,2025-04-18,North,Books,Corporate,969.52,286.46,1
+ORD-10947,2025-10-02,East,Home & Kitchen,Home Office,685.39,190.34,2
+ORD-10948,2025-07-15,North,Electronics,Corporate,431.17,107.86,4
+ORD-10949,2025-01-29,East,Home & Kitchen,Consumer,1078.88,281.25,6
+ORD-10950,2025-08-19,South,Home & Kitchen,Home Office,783.01,172.98,5
+ORD-10951,2025-04-10,North,Books,Corporate,888.22,286.77,7
+ORD-10952,2025-06-14,East,Clothing,Home Office,380.15,119.08,7
+ORD-10953,2025-04-16,South,Clothing,Corporate,809.14,64.75,7
+ORD-10954,2025-02-15,South,Electronics,Consumer,164.6,38.64,1
+ORD-10955,2025-12-01,North,Books,Home Office,113.29,36.35,3
+ORD-10956,2025-05-01,East,Books,Home Office,560.21,117.4,4
+ORD-10957,2025-01-13,West,Books,Corporate,548.06,157.66,8
+ORD-10958,2025-09-14,North,Clothing,Corporate,729.63,164.45,8
+ORD-10959,2025-09-17,West,Home & Kitchen,Consumer,950.54,227.09,4
+ORD-10960,2025-12-23,South,Books,Consumer,376.78,36.31,1
+ORD-10961,2025-12-03,South,Electronics,Corporate,1055.98,,4
+ORD-10962,2025-01-09,East,Electronics,Consumer,1438.96,262.74,2
+ORD-10963,2025-03-29,East,Home & Kitchen,Consumer,758.83,114.65,3
+ORD-10964,2025-09-20,South,Home & Kitchen,Home Office,1462.81,372.07,7
+ORD-10965,2025-10-02,West,Books,Corporate,356.72,28.74,5
+ORD-10966,2025-08-17,West,Clothing,Corporate,212.89,17.98,5
+ORD-10967,2025-09-25,East,Clothing,Corporate,1238.08,147.68,9
+ORD-10968,2025-08-10,South,Electronics,Corporate,686.65,100.98,8
+ORD-10969,2025-10-01,East,Electronics,Consumer,1227.06,313.91,5
+ORD-10970,2025-02-11,North,Home & Kitchen,Corporate,736.83,56.92,1
+ORD-10971,2025-05-06,West,Books,Home Office,276.62,22.0,8
+ORD-10972,2025-10-31,North,Home & Kitchen,Corporate,1047.65,313.95,4
+ORD-10973,2025-05-18,West,Electronics,Home Office,1372.45,467.1,5
+ORD-10974,2025-02-02,West,Home & Kitchen,Consumer,690.46,216.34,8
+ORD-10975,2025-11-26,North,Electronics,Corporate,494.73,82.2,4
+ORD-10976,2025-05-25,West,Clothing,Corporate,61.92,16.01,5
+ORD-10977,2025-09-10,East,Books,Home Office,807.59,66.34,5
+ORD-10978,2025-09-16,North,Electronics,Home Office,48.27,2.91,2
+ORD-10979,2025-08-28,East,Books,Corporate,1313.03,186.71,6
+ORD-10980,2025-04-28,West,Home & Kitchen,Home Office,378.65,106.82,3
+ORD-10981,2025-08-27,South,Clothing,Consumer,1191.53,100.79,1
+ORD-10982,2025-07-26,South,Clothing,Consumer,409.9,45.75,7
+ORD-10983,2025-05-10,South,Clothing,Home Office,873.84,267.81,6
+ORD-10984,2025-03-07,West,Home & Kitchen,Home Office,1049.91,132.06,1
+ORD-10985,2025-01-15,North,Home & Kitchen,Corporate,824.44,100.15,3
+ORD-10986,2025-08-03,South,Home & Kitchen,Corporate,971.02,181.99,3
+ORD-10987,2025-02-12,West,Electronics,Home Office,1216.52,119.2,8
+ORD-10988,2025-12-25,South,Clothing,Consumer,774.42,132.49,1
+ORD-10989,2025-06-15,South,Clothing,Corporate,1193.63,266.91,9
+ORD-10990,2025-06-20,West,Home & Kitchen,Corporate,851.06,205.18,6
+ORD-10991,2025-12-08,East,Home & Kitchen,Home Office,725.53,236.63,4
+ORD-10992,2025-08-30,West,Electronics,Consumer,1151.05,258.15,7
+ORD-10993,2025-01-24,South,Home & Kitchen,Consumer,99.72,7.07,5
+ORD-10994,2025-10-29,North,Electronics,Corporate,381.87,34.8,7
+ORD-10995,2025-07-16,North,Home & Kitchen,Corporate,1351.93,87.79,5
+ORD-10996,2025-09-14,South,Books,Corporate,466.63,141.98,4
+ORD-10997,2025-12-07,South,Electronics,Corporate,1089.69,141.94,7
+ORD-10998,2025-06-27,North,Clothing,Home Office,648.35,195.28,4
+ORD-10999,2025-01-06,North,Clothing,Consumer,1461.43,216.68,3
